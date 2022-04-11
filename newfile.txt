@@ -1,2 +1,0 @@
-hi gus!
-I am trying out rebase in git.
